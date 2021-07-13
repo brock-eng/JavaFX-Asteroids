@@ -1,2 +1,4 @@
 # JavaFX-Asteroids
-Modern take on the arcade classic Asteroids.
+Modern take on the arcade classic Asteroids using JavaFX.
+
+
